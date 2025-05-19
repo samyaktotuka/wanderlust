@@ -18,3 +18,5 @@ Wanderlust is a responsive, full-stack web application that allows users to list
 - Express.js
 - Node.js
 - MongoDB
+- EJS
+  
